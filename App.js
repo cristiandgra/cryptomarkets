@@ -39,7 +39,7 @@ const App = () => {
       />
       <StatusBar backgroundColor="#141414" />
       <View style={styles.header}>
-        <Text style={styles.title}>CryptoChain</Text>
+        <Text style={styles.title}>CryptoCoinList</Text>
         <TextInput
           style={styles.searchInput}
           placeholder="Search a Coin"
